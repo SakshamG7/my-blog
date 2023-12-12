@@ -10,3 +10,4 @@ fabfile.py
 *.swp
 *.pyc
 **/.webassets-cache/
+config.py
